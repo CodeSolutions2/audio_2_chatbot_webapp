@@ -10,5 +10,6 @@ Retreival step:
 3. Relevant information related to the user's question in the log file is found using cosine similarity
 
 Generation step:
+
 4. Chatbot is fine-tuned with relevant information only
 5. Chatbot responds to user question and highlights/returns log file sentences that support the response. 
