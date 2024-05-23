@@ -1,6 +1,6 @@
 # audio_2_chatbot_webapp
 
-A combination of steps from [audio_2_text_webapp](https://github.com/CodeSolutions2/audio_2_text_webapp) and [text_2_chatbot](https://github.com/CodeSolutions2/text_2_chatbot_journal) to make one end-to-end process. (**in progress**)
+A combination of steps from [audio_2_text_webapp](https://github.com/CodeSolutions2/audio_2_text_webapp) and [text_2_chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) to make one end-to-end process. (**in progress**)
 
 Using the transcription models created in [audio_2_text_webapp](https://github.com/CodeSolutions2/audio_2_text_webapp), transcribed text is added to a text log file. The text log file is used to train a chatbot (at the moment: OpenAI GPT) using Retrieval Augmented Generation (RAG):
 
