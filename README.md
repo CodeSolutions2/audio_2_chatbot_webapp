@@ -13,3 +13,7 @@ Generation step:
 
 4. Chatbot is fine-tuned with relevant information only
 5. Chatbot responds to user question and highlights/returns log file sentences that support the response. 
+
+
+## Upwork
+[Available for purchase on Upwork](https://www.upwork.com/services/product/development-it-audio-transcription-chatbot-using-q-a-finetuning-1783550902752177813)
